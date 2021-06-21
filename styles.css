@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+}
+
+body {
+  background-color: #FFF5B7;
+}
+
+hr {
+  background-color: inherit;
+  border: none;
+  border-top: dotted #BFC0C2;
+  border-width: 8px;
+  width: 64px;
+}
+
+h1 {
+  color: #71C9CE;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+  color: #71C9CE;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+table {
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+  font-family: 'Open Sans', sans-serif;
+}
+
+ol {
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+  border-radius: 10%;
+}
