@@ -17,7 +17,7 @@ hr {
 
 h1 {
   color: #71C9CE;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', serif;
 }
 
 h3 {
@@ -43,4 +43,14 @@ ol {
 
 img {
   border-radius: 10%;
+}
+
+img:hover {
+  border-radius: 0;
+  transition: 0.3s;
+}
+
+a {
+  color: #71C9CE;
+
 }
